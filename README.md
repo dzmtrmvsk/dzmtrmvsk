@@ -22,7 +22,7 @@ I have a strong foundation in **C**, **C++**, **JavaScript**, and **TypeScript**
 
 ## 🔥 What I Do
 
-I specialize in **frontend development**, focusing on creating **modern** and **intuitive** user experiences. My goal is to deliver clean, maintainable code that leads to fast and responsive websites. I also have experience with backend technologies, which allows me to collaborate effectively with fullstack teams.
+I specialize in **frontend development**, focusing on creating **modern** and **intuitive** user experiences. My goal is to deliver clean, maintainable code that leads to fast and responsive websites. **I also have experience with backend technologies**, which allows me to collaborate effectively with fullstack teams.
 
 ## 🚀 Technologies I Love Working With
 
