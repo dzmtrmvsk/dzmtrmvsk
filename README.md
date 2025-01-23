@@ -8,16 +8,16 @@ I'm a **Frontend Developer** with a strong background in web technologies, passi
 
 ### 🛠 Key Skills
 
-- **Languages**: JavaScript, TypeScript, HTML, CSS
+- **Languages**: JavaScript, TypeScript(primary), HTML, CSS, C++, C, GoLang
 - **Frontend Frameworks**: React, Next.js
 - **State Management**: Redux, React Query, Zustand, Context API, SWR
 - **Animation**: GSAP, Framer Motion
 - **3D Graphics**: ThreeJS
-- **Styling**: TailwindCSS, CSS
+- **Styling**: TailwindCSS, CSS, SASS
 - **Tools**: GIT/GitHub, Node.js
 - **UI Libraries**: Ant Design, Material-UI
 - **Design**: UI/UX Design, Accessible Design
-- **Development Practices**: Cross-browser compatibility, Responsive Design, Linux
+- **Development Practices**: Cross-browser compatibility, Responsive Design, SOLID, OOP
 
 ---
 
