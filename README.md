@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Dzmitry Ramanousky
 
-### Frontend Developer at Tevenix
+### Frontend Developer
 
-I'm a **Frontend Developer** with a strong background in web technologies, passionate about building high-quality user interfaces and delivering exceptional user experiences. I'm currently pursuing a degree in **Computer Engineering** at **BSUIR FCSaN** while working at **Tevenix** as a Frontend Developer. I specialize in **JavaScript**, **TypeScript**, and **Next.js**, among many other technologies.
+I'm a **Frontend Developer** with a strong background in web technologies, passionate about building high-quality user interfaces and delivering exceptional user experiences. I'm currently pursuing a degree in **Computer Engineering** at **BSUIR FCSaN** while working as a Frontend Developer. I specialize in **JavaScript**, **TypeScript**, and **Next.js**, among many other technologies.
 
 ---
 
@@ -35,7 +35,7 @@ I'm a **Frontend Developer** with a strong background in web technologies, passi
 ### 📫 How to reach me
 
 - Email: d.ramanousky@gmail.com
-- Telegram: [click](https://t.me/loplemind)
+- Telegram: [click](https://t.me/d_rmnvsk)
 - GitHub: [dzmtrmvsk](https://github.com/dzmtrmvsk)
 
 ---
