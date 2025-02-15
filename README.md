@@ -19,7 +19,7 @@ I'm a **Frontend Developer** with a strong background in web technologies, passi
 - **UI Libraries**: Ant Design, Material-UI
 - **Backend** : Node.js, Express, Postman, Java Spring Boot
 - **Design**: UI/UX Design, Accessible Design
-- **Development Practices**: Cross-browser compatibility, Responsive Design, SOLID, OOP
+- **Development Practices**: Agile, SOLID, OOP, DRY KISS YAGNI and etc.
 
 ---
 
