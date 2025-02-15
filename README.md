@@ -2,20 +2,22 @@
 
 ### Frontend Developer
 
-I'm a **Frontend Developer** with a strong background in web technologies, passionate about building high-quality user interfaces and delivering exceptional user experiences. I'm currently pursuing a degree in **Computer Engineering** at **BSUIR FCSaN** while working as a Frontend Developer. I specialize in **JavaScript**, **TypeScript**, and **Next.js**, among many other technologies.
+I'm a **Frontend Developer** with a strong background in web technologies, passionate about building high-quality user interfaces and delivering exceptional user experiences. I'm currently pursuing a degree in **Computer Engineering** at **BSUIR FCSaN** while working as a Frontend Developer. I specialize in **React** with **TypeScript**, and **Next.js**, among many other technologies.
 
 ---
 
 ### 🛠 Key Skills
 
-- **Languages**: JavaScript, TypeScript(primary), HTML, CSS, C++, C, GoLang
-- **Frontend Frameworks**: React, Next.js
+- **Languages**: JavaScript, TypeScript(primary), HTML, CSS, C++, C, GoLang, Java
+- **Frontend Frameworks/Libraries**: React, Next.js
 - **State Management**: Redux, React Query, Zustand, Context API, SWR
 - **Animation**: GSAP, Framer Motion
 - **3D Graphics**: ThreeJS
 - **Styling**: TailwindCSS, CSS, SASS
-- **Tools**: GIT/GitHub, Node.js
+- **Tools**: GIT/GitHub, GitHub Actions, Node.js
+- **Bundlers** : Parcel, Webpack, Rollup, Browserify
 - **UI Libraries**: Ant Design, Material-UI
+- **Backend** : Node.js, Express, Postman, Java Spring Boot
 - **Design**: UI/UX Design, Accessible Design
 - **Development Practices**: Cross-browser compatibility, Responsive Design, SOLID, OOP
 
@@ -28,7 +30,6 @@ I'm a **Frontend Developer** with a strong background in web technologies, passi
 - Critical thinking and problem-solving
 - Time management and ability to work under pressure
 - Adaptability and willingness to learn
-- Mentorship and team leadership
 
 ---
 
@@ -36,7 +37,6 @@ I'm a **Frontend Developer** with a strong background in web technologies, passi
 
 - Email: d.ramanousky@gmail.com
 - Telegram: [click](https://t.me/d_rmnvsk)
-- GitHub: [dzmtrmvsk](https://github.com/dzmtrmvsk)
 
 ---
 
