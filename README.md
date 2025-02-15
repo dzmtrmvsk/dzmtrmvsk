@@ -8,7 +8,7 @@ I'm a **Frontend Developer** with a strong background in web technologies, passi
 
 ### 🛠 Key Skills
 
-- **Languages**: JavaScript, TypeScript(primary), HTML, CSS, C++, C, GoLang, Java
+- **Languages**: JavaScript, TypeScript, C/C++, GoLang, Java
 - **Frontend Frameworks/Libraries**: React, Next.js
 - **State Management**: Redux, React Query, Zustand, Context API, SWR
 - **Animation**: GSAP, Framer Motion
