@@ -1,6 +1,6 @@
 ### About me
 
-I'm a **FullStack Developer** with a strong background in web technologies, passionate about building high-quality user interfaces and delivering exceptional user experiences. I'm currently pursuing a degree in **Computer Engineering** at **BSUIR FCSaN** while working as a **FullStack Developer**. I specialize in **React** with **NestJS**, among many other technologies.
+I'm a **FullStack Developer** with a strong background in web technologies, passionate about building high-quality systems and delivering exceptional user experiences. I'm currently pursuing a degree in **Computer Engineering** at **BSUIR FCSaN** while working as a **FullStack Developer**. I specialize in **React** with **NestJS**, among many other technologies.
 
 ---
 
@@ -21,21 +21,7 @@ I'm a **FullStack Developer** with a strong background in web technologies, pass
 
 ---
 
-### 🧑‍💼 Soft Skills
-
-- Strong communication and collaboration in cross-functional teams
-- Agile methodology experience
-- Critical thinking and problem-solving
-- Time management and ability to work under pressure
-- Adaptability and willingness to learn
-
----
-
 ### 📫 How to reach me
 
 - Email: d.ramanousky@gmail.com
 - Telegram: [click](https://t.me/d_rmnvsk)
-
----
-
-Thanks for visiting my profile!
